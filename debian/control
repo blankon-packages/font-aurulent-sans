@@ -1,4 +1,4 @@
-Source: fonts-aurulents-sans
+Source: fonts-aurulent-sans
 Section: x11
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
@@ -6,7 +6,7 @@ Build-Depends: cdbs, debhelper (>= 5.0.0)
 Standards-Version: 3.9.4
 Homepage: http://fontsquirrel.com/fonts/Aurulent-Sans
 
-Package: fonts-aurulents-sans
+Package: fonts-aurulent-sans
 Architecture: all
 Depends: defoma, fontconfig
 Description: Aurulent Sans is designed to be used as an interface font on free graphics servers such as X.org. 
