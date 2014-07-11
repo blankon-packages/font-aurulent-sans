@@ -1,15 +1,13 @@
-Source: fonts-hermit
+Source: fonts-aurulents-sans
 Section: x11
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
 Build-Depends: cdbs, debhelper (>= 5.0.0)
 Standards-Version: 3.9.4
-Homepage: http://www.pcaro.es/p/hermit
+Homepage: http://fontsquirrel.com/fonts/Aurulent-Sans
 
-Package: fonts-hermit
+Package: fonts-aurulents-sans
 Architecture: all
 Depends: defoma, fontconfig
-Replaces: ttf-hermit
-Description: Hermit is a monospace font designed to be clear, pragmatic and very readable. 
- Its creation has been focused on programming. Every glyph was carefully planned and calculated, 
- according to defined principles and rules. For this reason, Hermit is coherent and regular.
+Description: Aurulent Sans is designed to be used as an interface font on free graphics servers such as X.org. 
+ Aurulent is a work in progress; comments are welcome. Aurulent Sans is licensed under the Open Font License (explicit information is embedded in each OTF).
